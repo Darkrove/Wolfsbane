@@ -1,0 +1,30 @@
+.careerpage {
+  padding-top: 1700px;
+}
+
+.careerspotblue {
+  position: absolute;
+  width: 631px;
+  height: 930px;
+  left: 718px;
+  top: -135px;
+  filter: blur(50px);
+}
+
+.careerspotyellow {
+  position: absolute;
+  width: 647px;
+  height: 930px;
+  left: 366px;
+  top: 195px;
+  filter: blur(50px);
+}
+
+.careerspotblue1 {
+  position: absolute;
+  width: 631px;
+  height: 930px;
+  left: -2px;
+  top: -152px;
+  filter: blur(50px);
+}

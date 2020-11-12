@@ -1,0 +1,305 @@
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@200&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@500&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Teko:wght@300&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Handlee&display=swap");
+.homepage {
+  padding-top: 2450px;
+}
+
+.img1 {
+  height: 168px;
+  width: 168px;
+  left: 98px;
+  top: 156px;
+  border-radius: 0px;
+}
+
+.img2 {
+  height: 168px;
+  width: 167px;
+  left: 357px;
+  top: 156px;
+  border-radius: 0px;
+}
+
+.img3 {
+  height: 168px;
+  width: 168px;
+  left: 232px;
+  top: 295px;
+  border-radius: 0px;
+}
+
+.img4 {
+  height: 168px;
+  width: 168px;
+  left: 98px;
+  top: 449px;
+  border-radius: 0px;
+}
+
+.img5 {
+  height: 168px;
+  width: 167px;
+  left: 357px;
+  top: 449px;
+  border-radius: 0px;
+}
+
+.img6 {
+  height: 165px;
+  width: 165px;
+  left: 839px;
+  top: 156px;
+  border-radius: 0px;
+}
+
+.img7 {
+  height: 168px;
+  width: 168px;
+  left: 1095px;
+  top: 156px;
+  border-radius: 0px;
+}
+
+.img8 {
+  height: 168px;
+  width: 167px;
+  left: 971px;
+  top: 295px;
+  border-radius: 0px;
+}
+
+.img9 {
+  height: 168px;
+  width: 167px;
+  left: 849px;
+  top: 449px;
+  border-radius: 0px;
+}
+
+.img10 {
+  height: 168px;
+  width: 168px;
+  left: 1095px;
+  top: 449px;
+  border-radius: 0px;
+}
+
+.rect1 {
+  height: 344px;
+  width: 610px;
+  left: 48px;
+  top: 932px;
+  border-radius: 0px;
+}
+
+.rect1:hover {
+  background-color: #00ff19;
+}
+
+.rect2 {
+  position: absolute;
+  width: 610px;
+  height: 344px;
+  left: 692px;
+  top: 932px;
+}
+.rect2:hover {
+  background-color: #ff0000;
+}
+
+.ui {
+  width: 202px;
+  height: 100px;
+  left: 88px;
+  top: 1054px;
+}
+
+.desui {
+  height: 82px;
+  width: 507px;
+  left: 88px;
+  top: 1146px;
+  color: #8e8484;
+}
+
+.career {
+  height: 100px;
+  width: 156px;
+  left: 727px;
+  top: 1054px;
+}
+
+.desca {
+  height: 41px;
+  width: 426px;
+  left: 727px;
+  top: 1146px;
+  color: #8e8484;
+}
+
+.heading {
+  width: 162px;
+  height: 0px;
+  left: 48px;
+  top: 1335px;
+}
+
+.seehead {
+  position: absolute;
+  width: 123px;
+  height: 0px;
+  left: 274px;
+  top: 1325px;
+  color: #fff;
+}
+
+.seehead:hover {
+  color: #ffdd1f;
+}
+
+.arrow1 {
+  height: 48px;
+  width: 48px;
+  left: 411px;
+  top: 1322px;
+  border-radius: 0px;
+  color: #fff;
+}
+
+.rect3 {
+  left: 48px;
+  top: 1400px;
+}
+
+.rect4 {
+  left: 692px;
+  top: 1400px;
+}
+
+.at1 {
+  left: 78px;
+  top: 1415px;
+}
+
+.at2 {
+  top: 1415px;
+  left: 725px;
+}
+
+.atd1 {
+  left: 78px;
+  top: 1582px;
+}
+
+.atd2 {
+  left: 725px;
+  top: 1582px;
+}
+
+.ml1 {
+  left: 78px;
+  top: 1742px;
+}
+
+.ml2 {
+  left: 725px;
+  top: 1742px;
+}
+
+.arrow2 {
+  left: 450px;
+  top: 1752px;
+}
+
+.arrow3 {
+  top: 1752px;
+  left: 1096px;
+}
+
+.spotpurple {
+  left: 919px;
+  top: 254px;
+  height: 430px;
+  width: 430px;
+}
+
+.spotblue {
+  left: -200px;
+  top: 1002px;
+  height: 630px;
+  width: 630px;
+}
+
+.spotyellow {
+  position: absolute;
+  width: 554px;
+  height: 554px;
+  left: 795px;
+  top: 1800px;
+}
+
+.hrline1 {
+  left: 94px;
+  top: 1821px;
+}
+
+.hrline2 {
+  left: 738px;
+  top: 1821px;
+}
+
+.da1 {
+  left: 507px;
+  top: 1838px;
+}
+
+.da2 {
+  left: 1138px;
+  top: 1838px;
+}
+
+a.article1:hover {
+  color: #ffdd1f;
+}
+
+a.article2:hover {
+  color: #ffdd1f;
+}
+
+.title1 {
+  left: 348px;
+  top: 2019px;
+}
+
+.title2 {
+  left: 459px;
+  top: 2063px;
+}
+
+.asus {
+  left: 241px;
+  top: 2163px;
+}
+
+.google {
+  left: 424px;
+  top: 2159px;
+}
+
+.micro {
+  left: 618px;
+  top: 2159px;
+}
+
+.clutch {
+  left: 810px;
+  top: 2159px;
+}
+
+.reliance {
+  left: 980px;
+  top: 2163px;
+}

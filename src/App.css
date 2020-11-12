@@ -1,0 +1,9 @@
+* {
+  margin: auto;
+}
+
+.app {
+  position: relative;
+  width: 1349px;
+  background: #171618 !important;
+}

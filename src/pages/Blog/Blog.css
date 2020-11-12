@@ -1,0 +1,30 @@
+.blogpage {
+  padding-top: 2600px;
+}
+
+.blogspotpurple {
+  position: absolute;
+  width: 714px;
+  height: 764px;
+  left: 635px;
+  filter: blur(50px);
+  top: 197px;
+}
+
+.blogspotyellow {
+  position: absolute;
+  width: 708px;
+  height: 930px;
+  left: 7px;
+  top: 791px;
+  filter: blur(50px);
+}
+
+.blogspotblue {
+  position: absolute;
+  width: 499px;
+  height: 930px;
+  left: 849px;
+  top: 1659px;
+  filter: blur(50px);
+}

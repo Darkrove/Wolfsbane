@@ -1,0 +1,75 @@
+.aboutpage{
+    padding-top: 2050px;
+}
+
+.abspotyellow {
+    width: 528px;
+    height: 528px;
+    left: 821px;
+    top: 190px;
+    filter: blur(50px);
+}
+
+.abspotpurple {
+    top: 190px;
+    filter: blur(50px);
+    height: 930px;
+    width: 553px;
+    left: 0px;
+    top: 1078px;
+    border-radius: 0px;
+}
+
+.sig {
+    font-family: Handlee;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 22px;
+    line-height: 29px;
+    text-decoration-line: underline;
+}
+
+.jtc {
+    position: absolute;
+    width: 81px;
+    height: 41px;
+    left: 206px;
+    top: 1467px;
+
+}
+
+.top {
+    position: absolute;
+    width: 221px;
+    height: 54px;
+    left: 206px;
+    top: 1529px;
+
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 18px;
+
+    color: #FFFFFF;  
+}
+
+.profileback1 {
+    position: absolute;
+    width: 270px;
+    height: 270px;
+    left: 215px;
+    top: 1104px;
+    border-radius: 50%;
+    background: #F719C6;
+}
+
+.profileback2 {
+    position: absolute;
+    width: 270px;
+    height: 270px;
+    left: 188px;
+    top: 1126px;
+    border-radius: 50%;
+    background: #19C7F7;
+}

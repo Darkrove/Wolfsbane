@@ -1,0 +1,173 @@
+.uipage {
+  padding-top: 5400px;
+}
+
+.uispotyellow {
+  position: absolute;
+  width: 578px;
+  height: 930px;
+  left: 0px;
+  top: 40px;
+  filter: blur(50px);
+}
+
+.uispotblue {
+  filter: blur(50px);
+  width: 565px;
+  left: 784px;
+  top: 965px;
+  border-radius: 0px;
+  position: absolute;
+}
+
+.uispotyellow1 {
+  position: absolute;
+  width: 578px;
+  height: 930px;
+  left: 3px;
+  top: 2186px;
+  filter: blur(50px);
+}
+
+.container1 {
+  left: 100px;
+  top: 1370px;
+  height: 432px;
+}
+
+.container2 {
+  height: 463px;
+  left: 100px;
+  top: 1833px;
+}
+
+.container3 {
+  height: 344px;
+  left: 100px;
+  top: 2327px;
+}
+
+.xbox {
+  left: 698px;
+  top: 2893px;
+}
+
+.fbclone {
+  left: 113px;
+  top: 2893px;
+}
+
+.instaclone {
+  left: 113px;
+  top: 3185px;
+}
+
+.foodapp {
+  left: 406px;
+  top: 2893px;
+}
+
+.natgeo {
+  left: 406px;
+  top: 3185px;
+}
+
+.wildhuntz {
+  left: 114px;
+  top: 3477px;
+}
+
+.anexity {
+  left: 698px;
+  top: 3477px;
+}
+
+.lastofus {
+  left: 698px;
+  top: 3769px;
+}
+
+.octopus {
+  left: 990px;
+  top: 3477px;
+}
+
+.tour {
+  left: 990px;
+  top: 3769px;
+}
+
+.chair {
+  left: 698px;
+  top: 4061px;
+}
+
+.uber {
+  left: 406px;
+  top: 4061px;
+}
+
+.amazon {
+  left: 406px;
+  top: 4353px;
+}
+
+.mcd {
+  left: 114px;
+  top: 4061px;
+}
+
+.car {
+  left: 114px;
+  top: 4353px;
+}
+
+.starbucks {
+  left: 114px;
+  top: 4645px;
+}
+
+.pepsi {
+  left: 698px;
+  top: 4645px;
+}
+
+.shopping {
+  left: 701px;
+  top: 4937px;
+}
+
+.wildlife {
+  left: 990px;
+  top: 4645px;
+}
+
+.portfolio {
+  left: 990px;
+  top: 4937px;
+}
+
+.btitle {
+  position: absolute;
+  width: 273px;
+  height: 23px;
+  left: 532px;
+  top: 1114px;
+
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 23px;
+  text-align: center;
+
+  color: #ffffff;
+}
+
+.arrow4 {
+  position: absolute;
+  width: 48px;
+  height: 48px;
+  left: 645px;
+  top: 1178px;
+}

@@ -1,0 +1,12 @@
+.contactpage {
+  padding-top: 750px;
+}
+
+.contactspotblue {
+  position: absolute;
+  width: 581px;
+  height: 930px;
+  left: 768px;
+  top: 86px;
+  filter: blur(50px);
+}

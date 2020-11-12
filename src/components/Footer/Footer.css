@@ -1,0 +1,83 @@
+body{
+    background: #171618!important;
+}
+
+.footer{
+    position: absolute;
+    width: 1349px;
+    left: 0px;
+}
+
+.wolf {
+    position: absolute;
+    width: 107px;
+    height: 23px;
+    left: 110px;
+    top: 846px;
+
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 20px;
+    line-height: 23px;
+
+    color: #272727;
+    
+}
+
+.reg {
+    position: absolute;
+    width: 18px;
+    height: 18px;
+    left: 217px;
+    top: 840px;
+}
+
+.jtclogo {
+    position: absolute;
+    height: 22.433837890625px;
+    width: 46px;
+    left: 110px;
+    top: 870px;
+    border-radius: 0px;
+}
+
+.fam {
+    position: absolute;
+    width: 47px;
+    height: 18px;
+    left: 165px;
+    top: 870px;
+
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 15px;
+    line-height: 18px;
+    /* identical to box height */
+
+
+    color: #272727;
+
+}
+#menu2{
+    top: 53px; 
+}
+
+#menu3{
+    top: 103px; 
+}
+
+#menu4{
+    left: 200px;
+}
+
+#menu5{
+    left: 200px;
+    top: 53px; 
+}
+
+#menu6{
+    left: 200px;
+    top: 103px; 
+}
